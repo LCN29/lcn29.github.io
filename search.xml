@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>[MySQL] 数据类型</title>
+      <link href="/2020/05/20/mysql-shu-ju-lei-xing/"/>
+      <url>/2020/05/20/mysql-shu-ju-lei-xing/</url>
+      
+        <content type="html"><![CDATA[<h1 id="MySQL-数据类型"><a href="#MySQL-数据类型" class="headerlink" title="[MySQL] 数据类型"></a>[MySQL] 数据类型</h1><h2 id="数字类型"><a href="#数字类型" class="headerlink" title="数字类型"></a>数字类型</h2><p>数字类型大体可以分为 2 类: 整数 + 实数</p><h3 id="整数类型"><a href="#整数类型" class="headerlink" title="整数类型"></a>整数类型</h3><p>整数数据类型大体可以分为</p><blockquote><ol><li>tinyint</li><li>smallint</li><li>mediumint</li><li>int</li><li>bigint</li></ol></blockquote><h3 id="实数类型"><a href="#实数类型" class="headerlink" title="实数类型"></a>实数类型</h3><h2 id="字符串类型"><a href="#字符串类型" class="headerlink" title="字符串类型"></a>字符串类型</h2><h2 id="日期类型"><a href="#日期类型" class="headerlink" title="日期类型"></a>日期类型</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/05/13/hello-world/"/>
       <url>/2020/05/13/hello-world/</url>
